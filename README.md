@@ -1,3 +1,3 @@
 ## Romstasjonen
 
-fast sketch of an isometric game where you have to navigate in space using sound.
+Fast sketch of an isometric pixel game where you have to navigate in space using sound.
